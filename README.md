@@ -1,7 +1,7 @@
 <!--
 Name of your teams' final project
 -->
-# Final-Project
+# Gesture Recognition
 ## [National Action Council for Minorities in Engineering(NACME)](https://www.nacme.org) Google Applied Machine Learning Intensive (AMLI) at the `University of Arkansas`
 
 <!--
@@ -14,8 +14,7 @@ Developed by:
 - [member3](https://github.com/bitcoder-17) - `Steve Liang` 
 
 ## Description
-This repository contains everything you need to process the video for training and testing. You can train your own Gesture Recognition model with TSM method.
-
+This model identifies and labels human hand gestures and applies them to control different keybaord actions.
 
 ## Usage instructions
 
