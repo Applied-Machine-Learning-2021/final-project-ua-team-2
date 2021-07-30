@@ -1,7 +1,7 @@
 <!--
 Name of your teams' final project
 -->
-# Gesture Recognition
+# Hand Gesture Recognition and Application
 ## [National Action Council for Minorities in Engineering(NACME)](https://www.nacme.org) Google Applied Machine Learning Intensive (AMLI) at the `University of Arkansas`
 
 <!--
@@ -9,12 +9,12 @@ List all of the members who developed the project and
 link to each members respective GitHub profile
 -->
 Developed by: 
-- [N'kira Brooks](https://github.com/NkiraB) 
-- [Lizbet Rivera](https://github.com/ldrivera650) 
-- [Steve Liang](https://github.com/bitcoder-17)  
+- [N'kira Brooks](https://github.com/NkiraB) - New York University
+- [Lizbet Rivera](https://github.com/ldrivera650) - University of Arkansas
+- [Steve Liang](https://github.com/bitcoder-17) - University of Arkansas
 
 ## Description
-This model identifies and labels human hand gestures and applies them to control different keybaord actions.
+This project identifies and labels 27 human hand gestures and connects them to keys on a keyboard. Originally, this model was designed to use simple hand gestures to control videos and presentations; however, it can be modificed to apply the gestures to different actions.  
 
 ## Usage instructions
 
