@@ -19,6 +19,7 @@ This model identifies and labels human hand gestures and applies them to control
 ## Usage instructions
 
 1. Make sure your computer has a GPU, otherwise the project will not run sucessfully
+2. You need a webcam to record your gestures to use this model. 
 
 # TSM Online Hand Gesture Recognition Demo
 
