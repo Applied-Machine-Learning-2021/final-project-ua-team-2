@@ -9,9 +9,9 @@ List all of the members who developed the project and
 link to each members respective GitHub profile
 -->
 Developed by: 
-- [member1](https://github.com/cbaker6) - `N'kira Brooks`
-- [member2](https://github.com/ldrivera650) - `Lizbet Rivera` 
-- [member3](https://github.com/bitcoder-17) - `Steve Liang` 
+- [N'kira Brooks](https://github.com/NkiraB) 
+- [Lizbet Rivera](https://github.com/ldrivera650) 
+- [Steve Liang](https://github.com/bitcoder-17)  
 
 ## Description
 This model identifies and labels human hand gestures and applies them to control different keybaord actions.
